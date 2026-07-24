@@ -6,7 +6,7 @@
       "use": "sig",
       "kid": "dX4u4j-x8N6F7RZHvESQ3SWKLTSzmZwXKpyzUpRL3pc",
       "n": "swUSPLcQrgO0Zgf7_KM1lS3eYNoR6YcvJmc_QTWwNfp_mrG1t7X6MN0c8y9Zdx3EDzP50s4SMwnFIKahuGb91H614G2h_nFJWZAeDtKPQizu3gmO8pMfIk4TH0lc5P8YtDF_vFCJ1tbRpxrNvcmu8P6XrRZKYj-UKidiuAkM7C4NAbaB9tjffCMh3Yi1xEV_nFV9XMoIgDgQ7tjz05iH-GM2cLTygk2jgDVLZuqGd3coezJP1irvilGplIE2elopRT4mmJAeTWZYvrzAbhIqdRYw2QFuz9G5bN_DBHcqQNprZLUkHVf7RvLA_jiNncH_eLCQ180CDVi4cL5Tiyjs9w",
-      "e": "AQAB"
+      "e": "AQAB",
       "key_ops": ["verify"],
       "ext": true
     },
